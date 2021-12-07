@@ -48,4 +48,4 @@ This is a portfolio of the class assignments I have completed in MKTG 3509. Incl
 
 **Module 11: Use GritHub to create Assignment Portfolio**
 
-[A11: Use GritHub to create Assignment Portfolio](https://github.com/alexismarichak/MKTG3509ANALYTICS/edit/main/README.md)
+[A11: Use GritHub to create Assignment Portfolio](https://github.com/alexismarichak/MKTG3509ANALYTICS/blob/main/README.md)
